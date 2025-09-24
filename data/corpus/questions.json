@@ -1,0 +1,161 @@
+[
+  {
+    "id": "q0",
+    "question": "State a key feature of QuasarMQ.",
+    "answers": [
+      "quasarmq",
+      "message",
+      "broker",
+      "optimized",
+      "telemetry"
+    ]
+  },
+  {
+    "id": "q1",
+    "question": "State a key feature of QuasarMQ.",
+    "answers": [
+      "implements",
+      "topic-based",
+      "publish/subscribe",
+      "model"
+    ]
+  },
+  {
+    "id": "q2",
+    "question": "State a key feature of QuasarMQ.",
+    "answers": [
+      "persistence",
+      "layer",
+      "based",
+      "append-only"
+    ]
+  },
+  {
+    "id": "q3",
+    "question": "What QoS levels does QuasarMQ support?",
+    "answers": [
+      "0, 1, 2",
+      "0 1 2",
+      "0-2"
+    ]
+  },
+  {
+    "id": "q4",
+    "question": "State a key feature of QuasarMQ.",
+    "answers": [
+      "command",
+      "view",
+      "topics",
+      "quasarmq",
+      "list"
+    ]
+  },
+  {
+    "id": "q5",
+    "question": "State a key feature of LyraVision.",
+    "answers": [
+      "lyravision",
+      "tiny",
+      "vision",
+      "model",
+      "package",
+      "edge"
+    ]
+  },
+  {
+    "id": "q6",
+    "question": "State a key feature of LyraVision.",
+    "answers": [
+      "provides",
+      "on-device",
+      "object",
+      "detection",
+      "five",
+      "classes"
+    ]
+  },
+  {
+    "id": "q7",
+    "question": "To what precision are the models quantized in LyraVision?",
+    "answers": [
+      "INT8",
+      "int8"
+    ]
+  },
+  {
+    "id": "q8",
+    "question": "State a key feature of LyraVision.",
+    "answers": [
+      "pipeline",
+      "includes",
+      "frame",
+      "differencing",
+      "reduce",
+      "false"
+    ]
+  },
+  {
+    "id": "q9",
+    "question": "State a key feature of LyraVision.",
+    "answers": [
+      "lyravision",
+      "export",
+      "detections",
+      "coco",
+      "json",
+      "format"
+    ]
+  },
+  {
+    "id": "q10",
+    "question": "What ranking function does OrionSearch use?",
+    "answers": [
+      "BM25",
+      "bm25"
+    ]
+  },
+  {
+    "id": "q11",
+    "question": "State a key feature of OrionSearch.",
+    "answers": [
+      "supports",
+      "field-level",
+      "boosting",
+      "phrase",
+      "queries"
+    ]
+  },
+  {
+    "id": "q12",
+    "question": "State a key feature of OrionSearch.",
+    "answers": [
+      "indexer",
+      "uses",
+      "incremental",
+      "segment",
+      "merges"
+    ]
+  },
+  {
+    "id": "q13",
+    "question": "State a key feature of OrionSearch.",
+    "answers": [
+      "synonym",
+      "expansion",
+      "configured",
+      "orion.yml"
+    ]
+  },
+  {
+    "id": "q14",
+    "question": "State a key feature of OrionSearch.",
+    "answers": [
+      "query",
+      "language",
+      "supports",
+      "proximity",
+      "operators",
+      "using"
+    ]
+  }
+]

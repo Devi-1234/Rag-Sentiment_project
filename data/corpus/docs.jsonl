@@ -1,1 +1,15 @@
-
+{"id": "d0", "title": "QuasarMQ", "text": "QuasarMQ supports QoS levels 0, 1, and 2 similar to MQTT. QuasarMQ is a message broker optimized for IoT telemetry."}
+{"id": "d1", "title": "QuasarMQ", "text": "The persistence layer is based on an append-only log. It implements a topic-based publish/subscribe model. The CLI command to view topics is `quasarmq topics list`."}
+{"id": "d2", "title": "QuasarMQ", "text": "Users on forums discussed QuasarMQ tutorials and workshop schedules."}
+{"id": "d3", "title": "LyraV", "text": "LyraVision can export detections in COCO JSON format."}
+{"id": "d4", "title": "Lyra Vision", "text": "The pipeline includes frame differencing to reduce false positives. LyraVision is a tiny vision model package for edge cameras."}
+{"id": "d5", "title": "Lyra Vision", "text": "It provides on-device object detection for five classes by default. LyraVision models are quantized to INT8 for performance."}
+{"id": "d6", "title": "LyraV", "text": "LyraV release notes mention minor UI tweaks and logging improvements."}
+{"id": "d7", "title": "LyraV", "text": "LyraV release notes mention minor UI tweaks and logging improvements."}
+{"id": "d8", "title": "Lyra Vision", "text": "Lyra Vision community survey results will be published next quarter."}
+{"id": "d9", "title": "OrionSearch", "text": "The indexer uses incremental segment merges. Synonym expansion is configured in `orion.yml`. The query language supports proximity operators using `~k` syntax."}
+{"id": "d10", "title": "OrionSearch", "text": "It supports field-level boosting and phrase queries. It integrates with CI/CD tools."}
+{"id": "d11", "title": "OrionSearch", "text": "OrionSearch is a full-text search engine with BM25 ranking."}
+{"id": "d12", "title": "OrionSearch", "text": "OrionSearch release notes mention minor UI tweaks and logging improvements."}
+{"id": "d13", "title": "OrionSearch", "text": "Users on forums discussed OrionSearch tutorials and workshop schedules."}
+{"id": "d14", "title": "OrionSearch", "text": "Users on forums discussed OrionSearch tutorials and workshop schedules."}
